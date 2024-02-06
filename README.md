@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I’m solutions consultant, web-developer and author of [Building SaaS with Laravel](https://leanpub.com/laravelsaas/).
+I'm a full-stack web-developer with over 14 years of robust experience in software development and consulting across diverse sectors such as eCommerce, FinTech, and SaaS.
 
 ## What I do
 
@@ -14,11 +14,9 @@ Also, I am an expert in the development of custom Shopify apps, and offer Shopif
 
 I use the following programming languages, frameworks and tools:
 
-- 👉 PHP, Laravel Framework, Node.js;
-- 👉 Javascript, React, Vue.js, TailwindCSS, Livewire;
+- 👉 Node.js, Rust, PHP, Laravel Framework;
+- 👉 Javascript, React, Next.js, Vue.js, TailwindCSS;
 - 👉 Serverless Framework (AWS, Node.js, DynamoDB, Cloudflare);
-- 👉 Shopify’s Polaris UI (for Shopify Apps development);
-- 👉 VSCode, Github, Bash, Docker;
 
 
 ## My Experience and Past Projects
@@ -35,4 +33,4 @@ I have worked on a multitude of different projects throughout my career, so here
 
 Throughout my projects, my clients note that I work with high efficiency, and can provide solutions to tasks and projects that others deem "impossible."
 
-### 👉 [Have a project in mind? Let’s talk!](https://maxkostinevich.com/contact/) 👈
+### 👉 [Have a project in mind? Let’s talk!](https://maxico.dev/contact/) 👈
